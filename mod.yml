@@ -1,0 +1,11 @@
+title: Floor Randomizer
+originalAuthor: MainMemory
+description: Randomly generates new layouts for the castle's floors.
+game: Recom
+assets:
+- name: SYS\0001\SY0001.BIN
+  method: copy
+  platform: pc
+  package: Recom
+  source:
+  - name: SY0001.BIN
